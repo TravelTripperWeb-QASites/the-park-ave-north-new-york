@@ -1,4 +1,5 @@
 {
-  "name": "Fully-equiped Gym",
-  "order": 1
+  "image": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1400&photoreference=CmRaAAAAw6B1jVasIP-9ySeQvVxjo64JDI7vIkLUlyPbP_xwffu4ULTxeZa0EsNcGCud9f_dxvvBEWobv0UAUJGut35muRYlVZye3c-Ij6VeHfvjlyPYtuHv51VHIwJ_16w7-JShEhA6OwdnGZHZtZ3Q4lBplQkvGhSoBRLkOzROh86EzZnV2rHLg6r9eg&sensor=false&key=AIzaSyCT16upP_-vtI68MBa2YGCmdSoRM73r4nY",
+  "order": 1,
+  "hidden": false
 }
